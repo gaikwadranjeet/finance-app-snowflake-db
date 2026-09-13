@@ -20,13 +20,14 @@ Add Snowflake credentials to `server/.env`:
 
 env
 PORT=5001
+'''bash
 SNOWFLAKE_ACCOUNT=your-account
 SNOWFLAKE_USERNAME=your-username
 SNOWFLAKE_PASSWORD=your-password
 SNOWFLAKE_DATABASE=MY_COMPANY_DB
 SNOWFLAKE_SCHEMA=SAMPLE_DATA
 SNOWFLAKE_WAREHOUSE=COMPUTE_WH
-
+'''
 2. Run Locally
 Backend: cd server && npm install && node server.js (:5001)
 Frontend: cd client && npm install && npm run dev (:5173)
