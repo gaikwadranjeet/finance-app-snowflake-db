@@ -1,0 +1,39 @@
+{"level":"INFO","message":"[4:31:57.123 PM]: Creating connection pool with provided options"}
+{"level":"INFO","message":"[4:31:57.130 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:31:57.133 PM]: Creating Connection[id: 8dd0d65a-6342-4ea9-beaf-172db18fe0e2] with host: JPZZPMV-SX92479.snowflakecomputing.com, account: JPZZPMV-SX92479, accessUrl: https://JPZZPMV-SX92479.snowflakecomputing.com, user: RANJEETG, role: undefined, database: MY_COMPANY_DB, schema: SAMPLE_DATA, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.6.0"}
+{"level":"INFO","message":"[4:31:57.134 PM]: Connection[id: 8dd0d65a-6342-4ea9-beaf-172db18fe0e2] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 3.3.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:31:57.134 PM]: Connection[id: 8dd0d65a-6342-4ea9-beaf-172db18fe0e2] - connection object created successfully."}
+{"level":"INFO","message":"[4:31:57.135 PM]: Connection[id: 8dd0d65a-6342-4ea9-beaf-172db18fe0e2] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:31:57.135 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:31:57.136 PM]: Connection pool object created successfully"}
+{"level":"INFO","message":"[4:31:57.150 PM]: No client config detected."}
+{"level":"INFO","message":"[4:31:57.150 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:31:57.151 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:31:57.151 PM]: Connection[id: 8dd0d65a-6342-4ea9-beaf-172db18fe0e2] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:31:58.435 PM]: Connection[id: 8dd0d65a-6342-4ea9-beaf-172db18fe0e2] - connection established successfully after 1300.4 milliseconds"}
+{"level":"INFO","message":"[5:39:07.003 PM]: Creating connection pool with provided options"}
+{"level":"INFO","message":"[5:39:07.007 PM]: Creating new connection object"}
+{"level":"INFO","message":"[5:39:07.011 PM]: Creating Connection[id: ce42ac3d-8b8a-4b1b-8569-c1bd25dbf7ab] with host: JPZZPMV-SX92479.snowflakecomputing.com, account: JPZZPMV-SX92479, accessUrl: https://JPZZPMV-SX92479.snowflakecomputing.com, user: RANJEETG, role: undefined, database: MY_COMPANY_DB, schema: SAMPLE_DATA, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.6.0"}
+{"level":"INFO","message":"[5:39:07.011 PM]: Connection[id: ce42ac3d-8b8a-4b1b-8569-c1bd25dbf7ab] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 3.3.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[5:39:07.012 PM]: Connection[id: ce42ac3d-8b8a-4b1b-8569-c1bd25dbf7ab] - connection object created successfully."}
+{"level":"INFO","message":"[5:39:07.012 PM]: Connection[id: ce42ac3d-8b8a-4b1b-8569-c1bd25dbf7ab] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[5:39:07.013 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[5:39:07.013 PM]: Connection pool object created successfully"}
+{"level":"INFO","message":"[5:39:07.028 PM]: No client config detected."}
+{"level":"INFO","message":"[5:39:07.029 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[5:39:07.029 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[5:39:07.029 PM]: Connection[id: ce42ac3d-8b8a-4b1b-8569-c1bd25dbf7ab] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[5:39:08.076 PM]: Connection[id: ce42ac3d-8b8a-4b1b-8569-c1bd25dbf7ab] - connection established successfully after 1063.45 milliseconds"}
+{"level":"INFO","message":"[6:38:23.618 PM]: Creating connection pool with provided options"}
+{"level":"INFO","message":"[6:38:23.639 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:38:23.659 PM]: Creating Connection[id: 3580a216-8fa9-4066-a339-bdc2d5df6850] with host: JPZZPMV-SX92479.snowflakecomputing.com, account: JPZZPMV-SX92479, accessUrl: https://JPZZPMV-SX92479.snowflakecomputing.com, user: RANJEETG, role: undefined, database: MY_COMPANY_DB, schema: SAMPLE_DATA, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: darwin, os version: 24.6.0"}
+{"level":"INFO","message":"[6:38:23.660 PM]: Connection[id: 3580a216-8fa9-4066-a339-bdc2d5df6850] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 3.3.0, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:38:23.661 PM]: Connection[id: 3580a216-8fa9-4066-a339-bdc2d5df6850] - connection object created successfully."}
+{"level":"INFO","message":"[6:38:23.663 PM]: Connection[id: 3580a216-8fa9-4066-a339-bdc2d5df6850] - async connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:38:23.666 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[6:38:23.668 PM]: Connection pool object created successfully"}
+{"level":"INFO","message":"[6:38:23.746 PM]: No client config detected."}
+{"level":"INFO","message":"[6:38:23.748 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[6:38:23.749 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[6:38:23.750 PM]: Connection[id: 3580a216-8fa9-4066-a339-bdc2d5df6850] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[6:38:26.013 PM]: Connection[id: 3580a216-8fa9-4066-a339-bdc2d5df6850] - connection established successfully after 2350.2 milliseconds"}

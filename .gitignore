@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+*/node_modules/
+
+# Environment and Secret configs (CRITICAL)
+.env
+*/.env
+k8s/snowflake-secret.yaml
+
+# Production build outputs
+dist/
+*/dist/
+build/
+
+# Operating system / IDE metadata
+.DS_Store
+*/.DS_Store
+.vscode/
+.idea/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
